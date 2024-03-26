@@ -115,6 +115,7 @@ class Predictor(BasePredictor):
         ),
         lora_links: str = Input(
             description="Link to a lora file you want to use in your upscaling. Multiple links possible, seperated by comma",
+            default=""
         )
     ) -> list[Path]:
         """Run a single prediction on the model"""
