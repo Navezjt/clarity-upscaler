@@ -28,7 +28,7 @@ If you are not fimilar with cog, a1111 and dont't want to use Replicate (which i
 
 If you are not familiar with cog read: <a href=https://github.com/replicate/cog/blob/main/docs/getting-started-own-model.md>cog docs</a>
 
-- Download Checkpoints and LoRa's from Cvitai and put in /models folder
+- Download Checkpoints and LoRa's from Cvitai and put in /models folder (a download_weights.py file to prepare everything with one file is in work)
 
 ```
 https://civitai.com/models/46422/juggernaut
