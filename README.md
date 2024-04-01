@@ -18,6 +18,10 @@ https://x.com/philz1337x/status/1768679154726359128?s=20.</strong>
 
 I build open source AI apps. To finance my work i also build paid versions of my code. But feel free to use the free code. I post features and new projects on https://twitter.com/philz1337x
 
+# 🗞️ Updates
+
+- 2024.04.01: Support custom safetensors checkpoints
+
 # 🚀 Options to use Clarity-Upscaler
 
 ## User friendly Website
